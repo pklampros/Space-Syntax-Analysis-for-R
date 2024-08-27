@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Space-Syntax-Analysis-for-R
+Source: https://github.com/pklampros/Space-Syntax-Analysis-for-R
+
+Files: Space-Syntax-Analysis-for-R.Rproj .gitignore
+Copyright: Petros Koutsolampros <r-devel@pklampros.net>
+License: GPL-2.0-or-later
+
+Files: data/*
+Copyright: Public domain
+License: CC0-1.0
